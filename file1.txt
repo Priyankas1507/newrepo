@@ -5,3 +5,7 @@ This is the 1st file of git
 and
 
 this is the second commit
+
+but
+
+this is fourth commit from dev
