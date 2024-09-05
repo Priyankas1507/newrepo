@@ -1,3 +1,7 @@
 Hi 
 
-This is the 1st fiel of git
+This is the 1st file of git
+
+and
+
+this is the second commit
